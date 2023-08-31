@@ -1,2 +1,2 @@
 # mfm.py
-An implementation of Markup Language For Misskey for Python3.
+Informal implementation of the MFM parser for Python.
