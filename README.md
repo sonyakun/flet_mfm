@@ -1,2 +1,2 @@
-# flet_mfm
-An implementation of Markup Language For Misskey for the Flet framework.
+# mfm.py
+An implementation of Markup Language For Misskey for Python3.
